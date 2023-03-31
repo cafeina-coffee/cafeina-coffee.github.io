@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.d99d8745.css",
-    "main.js": "/react-gh-pages/static/js/main.31e1e665.js",
-    "static/media/menu.jpg": "/react-gh-pages/static/media/menu.7225b4bcc509793eea18.jpg",
-    "static/media/CentraNo2-Bold.ttf": "/react-gh-pages/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
-    "static/media/CentraNo2-Medium.ttf": "/react-gh-pages/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
-    "static/media/CentraNo2-Book.ttf": "/react-gh-pages/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
-    "index.html": "/react-gh-pages/index.html",
-    "main.d99d8745.css.map": "/react-gh-pages/static/css/main.d99d8745.css.map",
-    "main.31e1e665.js.map": "/react-gh-pages/static/js/main.31e1e665.js.map"
+    "main.css": "/static/css/main.58a8af4f.css",
+    "main.js": "/static/js/main.8714b21d.js",
+    "static/media/menu.jpg": "/static/media/menu.7225b4bcc509793eea18.jpg",
+    "static/media/CentraNo2-Bold.ttf": "/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "index.html": "/index.html",
+    "main.58a8af4f.css.map": "/static/css/main.58a8af4f.css.map",
+    "main.8714b21d.js.map": "/static/js/main.8714b21d.js.map"
   },
   "entrypoints": [
-    "static/css/main.d99d8745.css",
-    "static/js/main.31e1e665.js"
+    "static/css/main.58a8af4f.css",
+    "static/js/main.8714b21d.js"
   ]
 }
