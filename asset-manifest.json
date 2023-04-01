@@ -1,17 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.58a8af4f.css",
-    "main.js": "/static/js/main.8714b21d.js",
-    "static/media/menu.jpg": "/static/media/menu.7225b4bcc509793eea18.jpg",
-    "static/media/CentraNo2-Bold.ttf": "/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
-    "static/media/CentraNo2-Medium.ttf": "/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
-    "static/media/CentraNo2-Book.ttf": "/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "main.css": "/static/css/main.eb26a7f8.css",
+    "main.js": "/static/js/main.1e82425b.js",
+    "static/media/menu.svg": "/static/media/menu.f2b554dc92807eeed7f7295bcd063162.svg",
     "index.html": "/index.html",
-    "main.58a8af4f.css.map": "/static/css/main.58a8af4f.css.map",
-    "main.8714b21d.js.map": "/static/js/main.8714b21d.js.map"
+    "main.eb26a7f8.css.map": "/static/css/main.eb26a7f8.css.map",
+    "main.1e82425b.js.map": "/static/js/main.1e82425b.js.map"
   },
   "entrypoints": [
-    "static/css/main.58a8af4f.css",
-    "static/js/main.8714b21d.js"
+    "static/css/main.eb26a7f8.css",
+    "static/js/main.1e82425b.js"
   ]
 }
