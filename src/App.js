@@ -1,6 +1,6 @@
 import React from "react";
 import "./App.css";
-import menu from "./assets/menu.svg";
+import menu from "./assets/Menu.svg";
 
 function App() {
   return (
